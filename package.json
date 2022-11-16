@@ -5,7 +5,8 @@
     "blueprint:generate": "ts-node blueprint/index.ts",
     "start:api": "cd microservices/api ; npm run start:dev",
     "start:admin": "npm run generate:types; cd microservices/admin ; npm run start:dev",
-    "generate:types": "cd microservices/admin ; npm run generate"
+    "generate:types": "cd microservices/admin ; npm run generate",
+    "generate:typesNext": "cd microservices/tryNext ; npm run generate"
   },
   "dependencies": {},
   "bluelibs": {
