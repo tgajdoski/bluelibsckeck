@@ -1,6 +1,4 @@
-# Project the-blue-world
-
-Hello and welcome to your new project. To find out more about Blueprint feel free to explore it at https://www.bluelibs.com/docs/package-blueprint
+# check the bluelibs and live data
 
 ## Generate your project
 
